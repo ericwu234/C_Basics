@@ -1,3 +1,1 @@
-"# college_codingC" 
-"# college_codingC" 
-"# college_codingC" 
+# 大一C語言程式
